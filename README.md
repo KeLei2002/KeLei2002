@@ -1,7 +1,7 @@
 ## Hi, I'm Lei Ke (柯磊) 👋
 
 First-year Ph.D. student at **The Hong Kong University of Science and Technology (HKUST)**, supervised by [Prof. Fangneng Zhan](https://fnzhan.com/) and [Prof. Qifeng Chen](https://scholar.google.com/citations?user=lLMX9hcAAAAJ).
-Previously M.Sc. at Tsinghua University and B.Eng. at Shanghai Jiao Tong University.
+Previously M.Sc. at Tsinghua University, supervised by [Prof. Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN), and B.Eng. at Shanghai Jiao Tong University.
 
 I work on generative models: **world models**, **video generation**, and **diffusion acceleration**.
 
